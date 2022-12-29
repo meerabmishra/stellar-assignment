@@ -1,0 +1,27 @@
+.footer{
+    margin: 1rem  0.8rem;
+}
+.main-footer{
+margin: 2rem 3rem;
+}
+.main-footer h1{
+    margin: 4rem 12rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+    color: darkblue;
+    font-size: 1.2rem;
+}
+.main-footer p{
+    margin: 0rem 24rem;
+    font-size: 0.6rem;
+    /* font-weight: bold; */
+    font-weight: 500;
+}
+.image6{
+    width: 4rem;
+    height: 4rem;
+    border-radius: 50%;
+    margin-top: -4rem;
+    float: right;
+    margin-right: -1rem;
+}
