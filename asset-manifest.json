@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/stellar-assignment/static/css/main.7bb4caeb.css",
+    "main.css": "/stellar-assignment/static/css/main.bc49f808.css",
     "main.js": "/stellar-assignment/static/js/main.d2c2bced.js",
     "static/js/787.c3aa8a00.chunk.js": "/stellar-assignment/static/js/787.c3aa8a00.chunk.js",
     "static/media/dashboard1.png": "/stellar-assignment/static/media/dashboard1.c1b687aca9a05188c7c1.png",
@@ -8,12 +8,12 @@
     "static/media/icon.jpg": "/stellar-assignment/static/media/icon.fc2eb82c4289162a698c.jpg",
     "static/media/logo.png": "/stellar-assignment/static/media/logo.c66b1cf09b2ae525f233.png",
     "index.html": "/stellar-assignment/index.html",
-    "main.7bb4caeb.css.map": "/stellar-assignment/static/css/main.7bb4caeb.css.map",
+    "main.bc49f808.css.map": "/stellar-assignment/static/css/main.bc49f808.css.map",
     "main.d2c2bced.js.map": "/stellar-assignment/static/js/main.d2c2bced.js.map",
     "787.c3aa8a00.chunk.js.map": "/stellar-assignment/static/js/787.c3aa8a00.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7bb4caeb.css",
+    "static/css/main.bc49f808.css",
     "static/js/main.d2c2bced.js"
   ]
 }
